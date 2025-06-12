@@ -1972,6 +1972,7 @@
   "renewalMinDaysError": "Value must be a positive integer",
   "renewalSuccessMessage": "{renewedItemsNumber} of {totalItemsNumber} titles have successfully been renewed",
   "renewedItems": "The following titles have been renewed",
+  "request": "Request",
   "requestFailedTitle": "Request failed",
   "requestForMaterialUnsuccessful": "Your request for this material was unsuccessful",
   "requestSuccessfulTitle": "Success",
