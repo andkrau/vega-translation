@@ -2390,5 +2390,14 @@
   "collection.80": "Youth World Language DVDs",
   "collection.81": "Youth Xbox Videogames",
   "collection.82": "New Adult Science Fiction/Fantasy",
-  "collection.9": "Adult Large Type Mystery"
+  "collection.83": "Adult Large Type Nonfiction",
+  "collection.84": "New Adult Large Type Nonfiction",
+  "collection.85": "Youth Picture Books Themed",
+  "collection.86": "Adult 4K Blu-Ray",
+  "collection.9": "Adult Large Type Mystery",
+  "pickup-area.1": "Drive-Up",
+  "pickup-area.2": "Lockers",
+  "pickup-area.3": "Holds Shelf",
+  "pickup-area.5": "Holds Room",
+  "pickup-area.6": "Home Delivery"
 }
