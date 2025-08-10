@@ -2057,7 +2057,7 @@
   "resetFiltersButton": "RESET FILTERS",
   "resourceDetails": "Resource Details",
   "resourceForCheckoutNotAvailable": "Resource for Checkout {id} is not available",
-  "resourceIsNotAvailable": "Resource is not available",
+  "resourceIsNotAvailable": "Interlibrary loan",
   "resourcesRelatedTo": "{count} Resources related to {title}",
   "resourcesSeeAllTitle": "All resources",
   "resourcesShowcaseTitle": "Resources",
