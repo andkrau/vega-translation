@@ -946,7 +946,7 @@
   "getChapterRequest": "To get a chapter within 24 Hours, make request in note",
   "getFromAmazon": "Get from Amazon",
   "getIssue": "Get Issue",
-  "getIt": "GET IT",
+  "getIt": "Get It",
   "getItBtn": "get it",
   "getItEditionNotAvailableMessage": "Would you like to place a hold on any edition, or just the newest one? Get it faster by selecting \"any edition.\"",
   "getItEditionNotAvailableTitle": "The newest edition of \"{value}\" is not available",
